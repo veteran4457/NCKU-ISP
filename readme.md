@@ -25,6 +25,8 @@ The supporting (optional) sensors or peripheral equipments:
 ![](https://i.imgur.com/jf3Xtqu.png)
 ![](https://i.imgur.com/mI2GNRR.png)
 
+## Structural System 結構系統
+
 # Contact Us
 To report any bugs or commit any new features, please create a new pull request and describe the issues in detail.
 If you are interested in our project and want to support us, please contact us with the following email: `e94066157@gs.ncku.edu.tw`, thanks!
